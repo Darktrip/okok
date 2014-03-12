@@ -1,3 +1,4 @@
 def hello();
  printf("hello world")
- hello()
+ if __name__ == 'main__
+
